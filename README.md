@@ -1,1 +1,1 @@
-# site-escola
+# projeto-escola
