@@ -547,7 +547,7 @@ footer {
     flex-direction: row; /* mantém horizontal */
     justify-content: space-between;
     align-items: center;
-    padding: 0.8rem 1rem 1rem; /* espaço extra para a logo */
+    padding: 0.8rem 1rem 2.5rem; /* espaço extra para a logo */
     position: relative;
   }
 
@@ -572,7 +572,7 @@ footer {
   .nome-escola {
     font-size: 1rem;
     position: absolute;        /* fixa dentro do header */
-    top: 70px;                 /* desce */
+    top: 58px;                 /* desce */
     left: 50%;                 /* centraliza */
     transform: translateX(-50%);
     margin: 2;
